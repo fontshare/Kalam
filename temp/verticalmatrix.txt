@@ -1,0 +1,10 @@
+name:Kalam
+weight:700
+win_a:1030
+win_d:290
+typo_a:1030
+typo_d:-290
+hhea_a:1030
+hhea_d:-290
+hhea_l:90
+typo_l:90
